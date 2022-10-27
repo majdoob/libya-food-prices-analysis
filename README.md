@@ -1,4 +1,4 @@
-# libya food prices Eplortary Analysis
+# Libya food prices Eplortary Analysis
 ## Visualizing The Food Prices in Libya (June 2022)
 
 In this project i'm ewxploring the Libya - Food Prices data from 2017-2022
