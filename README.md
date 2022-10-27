@@ -13,7 +13,7 @@ Working to be done:
 dashboard.
 
 ### image
-( [https://github.com/majdoob/libya-food-prices-analysis/blob/main/newplot.png] )
+![alt text](https://github.com/majdoob/libya-food-prices-analysis/blob/main/newplot.png)
 
 
 data source: https://data.humdata.org/dataset/dc632a15-d376-496f-976f-c3282e67bc28/resource/49e3a2ae-629e-46f3-8529-7e1fd0277b24
