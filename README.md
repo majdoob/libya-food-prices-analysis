@@ -12,7 +12,7 @@ Anaconda , Jupyter Notebook, VSCode, Python (Pandas, Plotly).
 Working to be done:
 dashboard.
 
-### image
+#### Sunburst Chart
 ![alt text](https://github.com/majdoob/libya-food-prices-analysis/blob/main/newplot.png)
 ![alt text](https://github.com/majdoob/libya-food-prices-analysis/blob/main/newplot1.png)
 
