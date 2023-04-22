@@ -9,8 +9,7 @@ to run the codes you need to install the relevant dependencies to the enviremnt.
 Tools used:
 Anaconda , Jupyter Notebook, VSCode, Python (Pandas, Plotly).
 
-Working to be done:
-dashboard.
+Note: download HTML file and open it on your browswr to interacte with the diagram.
 
 #### Sunburst Chart
 ![alt text](https://github.com/majdoob/libya-food-prices-analysis/blob/main/newplot.png)
